@@ -1,4 +1,4 @@
 # UIActivityViewController
 UIActivityViewController iOS自带分享
 
-![分享效果图](UIActivityViewController/IMG_1006.PNG)
+![分享效果图](https://github.com/Caolongs/UIActivityViewController/blob/master/WechatIMG151.jpeg?raw=true)
